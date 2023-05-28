@@ -2,12 +2,20 @@
 
 ## 🚀 About Me
 
-🎓 I am Youssef Sultan, a **NodeJS Developer** (specializing in **Bot Applications**) also a **Full Stack Developer**. I am also Pursuing my Bachelor in **Computer Science **.
+🎓 I am Youssef Sultan, a **NodeJS Developer** (specializing in **Bot Applications**) also a **Full Stack Developer**. I am also Pursuing my Bachelor in **Computer Science**.
+highly motivated to gain an insight into the business world. I'm interested in the idea of WordPress and how it is used to achieve set goals as well as to further develop my skills, while also giving back to my community. This is why I have been able to achieve various awards and scholarships to prove my Web Development abilities during my academic career at Misr International University (MIU). I've been scripting for 3 years so far. Studied basics for programming. Got enough knowledge to build applications Currently studying online courses on Udemy beside my university. Expert in computer skills.
 
 👨‍💻 I enjoy contributing to **Open Source Projects**. I am really enthusiastic about learning new technology. In 2021, I learned **Disocrd.js**, **Three.js**, and **Verilog**.
-
+I enjoy creating **gamemodes**(Scripts) for SA-MP using **PAWN** and other Games
 ### 📱Contact
-![Microsoft_Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=whit) ![Youseef_Sultan@hotmail.com]
+
+
+[![Linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/youseef-sultan-780a821b0/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/youssef.sultan.5201)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:youseef_sultan@hotmai.com)
+
+
+## 🛠️ Skills
 ### Languages
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -27,7 +35,16 @@
 
 ### Backend as a Service (PaaS)
 
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
-![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+![Amazon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+
+### Databases
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+## 📈 Stats
+
+![Stat1](https://github-readme-stats.vercel.app/api?username=Vladilen220&theme=blue-green)
+![Stat1](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladilen220&theme=blue-green)
