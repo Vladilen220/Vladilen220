@@ -54,5 +54,6 @@ I enjoy creating **gamemodes**(Scripts) for SA-MP using **PAWN** and other Games
 
 ## 📈 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vladilen220&show_icons=true&theme=blue-green&v=2)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladilen220&layout=compact&theme=blue-green&v=2)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vladilen220&theme=github_dark)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vladilen220&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vladilen220&theme=dark)
