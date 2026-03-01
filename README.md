@@ -10,9 +10,10 @@ I enjoy creating **gamemodes**(Scripts) for SA-MP using **PAWN** and other Games
 ### 📱Contact
 
 
-[![Linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/youseef-sultan-780a821b0/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://youssef-sultan.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/youseef-sultan-780a821b0/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/youssef.sultan.5201)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:youseef_sultan@hotmai.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:youseef_sultan@hotmail.com)
 
 
 ## 🛠️ Skills
@@ -53,5 +54,5 @@ I enjoy creating **gamemodes**(Scripts) for SA-MP using **PAWN** and other Games
 
 ## 📈 Stats
 
-![Stat1](https://github-readme-stats.vercel.app/api?username=Vladilen220&theme=blue-green)
-![Stat1](https://github-readme-stats.vercel.app/api/top-langs/?username=Vladilen220&theme=blue-green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=blue-green&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=blue-green&cache_seconds=86400)
