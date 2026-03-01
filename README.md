@@ -56,4 +56,4 @@ I enjoy creating **gamemodes**(Scripts) for SA-MP using **PAWN** and other Games
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vladilen220&theme=tokyonight)
 ![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vladilen220&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Vladilen220&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Vladilen220&theme=tokyonight)
